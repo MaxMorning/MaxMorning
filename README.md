@@ -4,7 +4,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaxMorning&show_icons=true&theme=dracula" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMorning&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMorning&layout=compact" />
 
 <!---
 MaxMorning/MaxMorning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
